@@ -1,5 +1,6 @@
 # 图片属性
 artbook	原画
+
 game cg	游戏CG
 comic	漫画
 4koma	四格
