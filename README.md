@@ -6,4 +6,4 @@
 
 我会测试这些Tag并将不起作用的删除
 
- [查看Tag](https://azumwatson.github.io/novel-ai-tag/tag)
+ [查看 Tag](https://azumwatson.github.io/novel-ai-tag/tag)
