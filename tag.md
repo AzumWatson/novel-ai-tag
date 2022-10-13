@@ -1,4 +1,4 @@
-#图片属性
+# 图片属性
 artbook	原画
 game cg	游戏CG
 comic	漫画
@@ -59,7 +59,7 @@ tagme	图片有一些上传者未知的项目
 artist request	作者未知,需要补完
 what	不知所谓
 
-#人物类型
+# 人物类型
 Witch	女巫
 miko	巫女
 maid	女仆
@@ -99,7 +99,7 @@ siblings	兄弟姐妹
 1girl/boys	1个女人/男人
 2girls/boys	2个女人/男人
 
-#人物表情
+# 人物表情
 makeup	浓装
 food on face	食物在脸上
 eyes closed	闭眼
@@ -141,7 +141,7 @@ naughty face	下流的表情
 endured face	忍耐的表情
 looking at viewer	看着你
 
-#人物形态
+# 人物形态
 ahoge	呆毛
 bangs	刘海
 blunt bangs	齐刘海
@@ -213,7 +213,7 @@ horns	兽角
 tan lines	晒日线
 facial hair	男性脸部胡须
 
-#人物姿势动作状态
+# 人物姿势动作状态
 v	胜利手势
 thumbs up	翘大拇指
 middle finger	比出中指
@@ -282,7 +282,7 @@ sweat	流汗
 mimikaki	掏耳勺
 standing	站立
 
-#服装风格
+# 服装风格
 gothic	哥特风格
 lolita fashion	洛丽塔风格
 gothic lolita	哥特洛丽塔风格
@@ -317,7 +317,7 @@ striped	横条花纹的
 polka dot	点装花纹的
 frills	皱边的
 
-#服装类物品
+# 服装类物品
 halo	头顶光环
 tokin hat	东金帽子
 mini top hat	迷你礼帽
@@ -461,7 +461,7 @@ slippers	拖鞋
 boots	靴子
 knee boots	马靴
 
-#和谐类
+# 和谐类
 tentacle	触手
 hairjob	发交
 oral/fellatio	口交
@@ -625,7 +625,7 @@ asian	亚洲
 faceless male	无脸男
 blood	血
 
-#物品和背景
+# 物品和背景
 camera	相机
 chopsticks	筷子
 microphone	麦克风
