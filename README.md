@@ -8,7 +8,7 @@
 
  [查看 Tag](https://azumwatson.github.io/novel-ai-tag/tag)
 
-# 贡献
+# 如何贡献
 
 如果你有发现哪个Tag没有作用没有效果的 你可以发起 [Issues](https://github.com/AzumWatson/novel-ai-tag/issues) 或者直接 pr
 
