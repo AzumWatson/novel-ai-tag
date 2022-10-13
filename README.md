@@ -5,3 +5,5 @@
 目前是直接将 https://github.com/zcyzcy88/TagTable 储存库内收集的Tag直接复制过来(据描述 这些Tag本来是用于gelbooru 搜索使用)
 
 我会测试这些Tag并将不起作用的删除
+
+ ![查看Tag](https://azumwatson.github.io/novel-ai-tag/tag)
